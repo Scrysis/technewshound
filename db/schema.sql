@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS techhound_db;
+CREATE DATABASE techhound_db;
